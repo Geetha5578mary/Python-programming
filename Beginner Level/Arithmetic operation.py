@@ -1,0 +1,15 @@
+a=10
+b=20
+c=22
+d=4
+e=8
+f=24
+g=44
+j=33
+h=5
+i=9
+print(a+b)
+print(c*d)
+print(e/f)
+print(g-j)
+print(h**i)
